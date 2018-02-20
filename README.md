@@ -1,0 +1,2 @@
+WordPress plugin EDD Sell User Roles extending Easy Digital Downloads, made for recruitment purposes. 
+EDD Sell User Roles allows to sell user roles with 'Default' product type from Easy Digital Downloads plugin.
